@@ -29,9 +29,6 @@ Full Stack Developer with experience in web and mobile application development. 
 - Delivered a cross-platform React Native mobile app with real-time sync and offline capabilities
 - Engineered a complex relational database with 15+ linked tables supporting geographic and transaction data
 
-### Hi-Clock Developer | Capstone Project
-*(Details available upon request)*
-
 ## 🎓 Education
 
 **Tertiary**  
@@ -49,7 +46,7 @@ School Year (2009-2015)
 
 ## 💻 Skills
 
-- **Programming Languages**: PHP, MySQL, JavaScript, TypeScript, C#, RESTful APIs
+- **Programming Languages**: PHP, MySQL, JavaScript, TypeScript, RESTful APIs
 - **Frameworks & Libraries**: React Native, Bootstrap, Node.js
 - **Tools & Technologies**: Git, Web Development
 - **Soft Skills**: Problem-Solving, Critical Thinking, Team Collaboration, Time Management, Adaptability, Project Management
@@ -60,17 +57,6 @@ School Year (2009-2015)
 - 📧 Email: kchrisdurango@gmail.com
 - 📍 Address: Block 19 Lot 7, Sabulan Country Homes, Camanjac, Dumaguete City, Siquijor, 6201 Negros Oriental, Philippines
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevindurangoThese&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindurangoThese&layout=compact&theme=tokyonight)
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-
 ---
 
-⭐️ From [kevindurangoThese](https://github.com/kevindurangoThese)
+⭐️ From [kevindurango](https://github.com/kevindurango)
