@@ -125,12 +125,3 @@
 
 <br>
 
-
-<div align="center">
-  <h3>🎯 Support Me</h3>
-  <p>If you like my work, consider buying me a coffee!</p>
-  <a href="https://www.buymeacoffee.com/kevindurango">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
-
