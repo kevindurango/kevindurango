@@ -107,8 +107,8 @@
   </a>
 </div>
 
-<p align="center">📞 Phone: +63742779825</p>
-<p align="center">📍 Block 19 Lot 7, Sabulan Country Homes, Camanjac, Dumaguete City, Siquijor, 6201 Negros Oriental, Philippines</p>
+<p align="center">📞 Phone: +69657798825</p>
+<p align="center">📍 Block 19 Lot 7, Sibulan Country Homes Association, Dumaguete City, 6201 Negros Oriental, Philippines</p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> <b>GitHub Stats</b>
 
@@ -134,9 +134,3 @@
   </a>
 </div>
 
-<div align="center">
-  
-  ---
-  ⭐️ From [kevindurango](https://github.com/kevindurango)
-  
-</div>
