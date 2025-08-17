@@ -108,7 +108,7 @@
 </div>
 
 <p align="center">📞 Phone: +69657798825</p>
-<p align="center">📍 Block 19 Lot 7, Sibulan Country Homes Association, Dumaguete City, 6201 Negros Oriental, Philippines</p>
+<p align="center">📍 Block 19 Lot 7, Sibulan Country Homes Association, Sibulan, 6201 Negros Oriental, Philippines</p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> <b>GitHub Stats</b>
 
@@ -124,4 +124,3 @@
 </div>
 
 <br>
-
